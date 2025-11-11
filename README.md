@@ -1,13 +1,14 @@
-# qr-code-generator
+# 🚀 QR Code Generator
 
-## Cài đặt
-git clone <repo-url>
-cd <repo-folder>
+Ứng dụng tạo mã QR đơn giản, linh hoạt — giúp bạn nhanh chóng sinh QR Code từ văn bản, đường dẫn hoặc dữ liệu tùy chọn.
 
-# Cài dependencies
+---
+
+## 🛠️ Cài đặt
+
+Clone repository về máy của bạn và cài đặt dependencies:
+
+```bash
+git clone https://github.com/dangkitt/qr-code-generator
+cd qr-code-generator
 npm install
-# hoặc (nếu bạn có package-lock.json và muốn cài chính xác nhanh hơn)
-npm ci
-
-## Chạy
-node index.js
